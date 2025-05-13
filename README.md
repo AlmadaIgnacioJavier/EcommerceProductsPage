@@ -44,8 +44,8 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/react-ecommerce-ui.git
-cd react-ecommerce-ui
+git clone https://github.com/AlmadaIgnacioJavier/EcommerceProductsPage.git
+cd EcommerceProductsPage
 
 # Install dependencies
 npm install
