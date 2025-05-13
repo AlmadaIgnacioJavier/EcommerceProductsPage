@@ -52,8 +52,6 @@ npm install
 
 # Start the development server
 npm run dev
-📸 Preview
-Insert a screenshot or GIF here if you have one.
 
 🧪 API Source
 This app uses https://fakestoreapi.com to fetch product data.
